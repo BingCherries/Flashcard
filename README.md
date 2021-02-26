@@ -7,9 +7,9 @@
 
 ### App Walk-though
 `TODO://` 
-<img src="https://recordit.co/mBcaGw9HuT" width=200><br>
+<img src="http://g.recordit.co/mBcaGw9HuT.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+`TODO://`
 
 ## Required
 - [X] Create New Project in Android Studio
